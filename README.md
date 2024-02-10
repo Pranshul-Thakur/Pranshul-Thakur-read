@@ -7,10 +7,11 @@ Interested in my work? Check out my [resume](https://drive.google.com/file/d/1rr
 ### 💻 the stack: 
 [<img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python" height="25"/>](https://www.python.org/)&nbsp;
 [<img src="https://img.shields.io/badge/-NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" title="NoSQL" height="25"/>](https://www.mongodb.com/)
+[<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" height="25"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" height="25"/>](https://git-scm.com/)
+[<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter" height="25"/>](https://flutter.dev/)
+[<img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" title="npm" height="25"/>](https://www.npmjs.com/)
 
-[<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" height="25"/>](https://www.java.com/en/)&nbsp;
-[<img src="http://img.shields.io/badge/-Rust-f8642c?style=for-the-badge&logo=rust&logoColor=321d13" alt="Rust" title="Rust" height="25"/>](https://www.rust-lang.org/)&nbsp;
-[![MongoDB](https://github.com/FransLopez/logo-images/blob/master/logos/mongodb.png)](https://www.mongodb.com/)
 
 | Repo      | Description |
 | ----------- | ----------- |
