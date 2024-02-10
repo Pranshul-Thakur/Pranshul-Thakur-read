@@ -1,4 +1,4 @@
-# hey 👋
+#                                                              ✨ Wassgud ✨
 
 Welcome to my GitHub page! I'm a student developer passionate about CS, just trying to learn something new every day.
 
