@@ -1,6 +1,7 @@
 # hey 👋
 
 Welcome to my GitHub page! I'm a student developer passionate about CS, just trying to learn something new every day.
+
 Interested in my work? Check out my [resume](file:///C:/Users/LENOVO/Documents/Job%20related/Pranshul%20Resume.pdf) or drop me a line at `pranshulthakur.11@gmail.com` and let's grab coffee!
 
 ### 💻 the stack: 
