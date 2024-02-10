@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page! I'm a student developer passionate about CS, just trying to learn something new every day.
 
-Interested in my work? Check out my [resume](Pranshul Resume.pdf) or drop me a line at `pranshulthakur.11@gmail.com` and let's grab coffee!
+Interested in my work? Check out my [resume](https://drive.google.com/file/d/1rrQxfAjuTFCllX4JHh1zR2XDxqh67xmZ/view?usp=sharing) or drop me a line at `pranshulthakur.11@gmail.com` and let's grab coffee!
 
 ### 💻 the stack: 
 [<img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python" height="25"/>](https://www.python.org/)&nbsp;
