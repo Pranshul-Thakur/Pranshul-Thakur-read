@@ -10,7 +10,6 @@ Interested in my work? Check out my [resume](https://drive.google.com/file/d/1rr
 [<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" height="25"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" height="25"/>](https://git-scm.com/)
 [<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter" height="25"/>](https://flutter.dev/)
-[<img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" title="npm" height="25"/>](https://www.npmjs.com/)
 
 
 | Repo      | Description |
